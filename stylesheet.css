@@ -1,7 +1,9 @@
 .title {
   width:100%;
   color:#red;
-  background-image: image(https://yahoo.jp/Yr5UTa);
 }
 
+.container {
+  background-image:(https://yahoo.jp/Yr5UTa);
+}
 
