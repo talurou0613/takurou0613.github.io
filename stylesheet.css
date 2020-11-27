@@ -5,8 +5,6 @@
 
 .top-wrapper {
   color:red;
-  background-image: url(https://yahoo.jp/Yr5UTa);
-  background-size: cover;
 }
 
 .btn {
@@ -16,4 +14,9 @@
 
 .signup {
   background-color: #239b76
+}
+
+header {
+  height: 500px;
+  background-image:url(https://yahoo.jp/Yr5UTa);
 }
