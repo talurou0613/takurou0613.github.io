@@ -4,15 +4,15 @@
 }
 
 .signup {
-  background-color: #239b76
+  background-color: #239b76;
   padding: 15px;
   text-align: center;
 }
 
 .container {
   width: 100%;
-  height: 200px;
-  padding: 150px;
+  height: 100px;
+  text-align: center;
 }
 
 .top-wrapper {
