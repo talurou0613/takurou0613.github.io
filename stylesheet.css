@@ -1,6 +1,7 @@
 .btn {
   display:inline-block;
   color: white ;
+  margin: 0 auto;
 }
 
 .signup {
