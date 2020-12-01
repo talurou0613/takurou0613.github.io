@@ -9,7 +9,7 @@
 }
 
 .container {
-  width: 100%;
+  width: 1170px;
   height: 100px;
   text-align: center;
   padding-top: 100px;
@@ -24,3 +24,6 @@
 .top-wrapper h1 {
   color: black;
 }
+
+.top-wrapper p {
+  color:
