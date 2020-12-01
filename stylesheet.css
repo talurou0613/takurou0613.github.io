@@ -22,12 +22,12 @@
 }
 
 .top-wrapper h1 {
-  color: black;
+  color: red;
   padding:10px;
   font-size:50px;
 }
 
 .top-wrapper p {
-  color:#777777;
+  color:#FF82b2;
   font-size: 25px;
 }
