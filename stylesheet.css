@@ -12,12 +12,13 @@
 .container {
   width: 100%;
   padding-top: 100px;
-  text-align: center;
+  margin: 0 auto;
 }
 
 .top-wrapper {
   background-image: url(https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG5Bn3DxYLYALg8Tg4zrToQ4pHv2B37--OGSwdU_4nSYJOiKWB7iNh0CH0mtny8p0MHktWD1q5WXSU0U8IYboDFsGkoVy9a8UfT6ZfIv7W7QqT3exx7yzvJgS1X2VkxfG7shd7HRi9ZdNtC0iKizJQbgdXWj35Hj-DKsXydveYQYsyqR_M0nJEB3RiFdxJLOq99FHw-Sa5HC0jDfSUHC4wIvBMio6ldZryj6xSPYivXVGMxN_SAsDRGEN5w7rHu9Z5YLO7TOPatcG5UI3AWOU0VXO5Onjzf7w7xiUKEbmJNd-qiJvP6RnXPG-SERcGUqywCiuij2BSAMnasjmXIdAAJ4=/stadium-in-the-s-and-flashes-football-field_99433-1471.jpg?errorImage=false);
   background-size: cover ;
+  text-align: center;
 }
 
 .top-wrapper h1 {
