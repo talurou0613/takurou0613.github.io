@@ -33,7 +33,6 @@
   opacity: 0.8;
 }
 
-.logo {
-  width:100%;
-  height: auto;
+header {
+  background-color:rgba(34,49,52,0.9);
 }
